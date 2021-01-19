@@ -14,10 +14,10 @@ import pandas as pd
 import re
 import matplotlib.pyplot as plt
 
-consumer_key = "AUds4eS1BHAq2UcjeaBbmQi0K"
-consumer_secret = "iVWKUBzAclrz1ow3XBP5ReMwAX6WUBO9NaXlCYEeiHGj5UVN7a"
-access_token = "1319171958286749697-n8l6vveS4glZHOQUHxnH6ozI6ek2eI"
-access_token_secret = "X9WKg1NTCmc96R9KscIpJrtQyLcHRMLF1YGuwAgT0MPy2"
+consumer_key = "xxxxxxxxxxxxxxxxxx"
+consumer_secret = "xxxxxxxxxxxxxxxxxxxxxxx"
+access_token = "xxxxxxxxxxxxxxxxxxxxxxx"
+access_token_secret = "xxxxxxxxxxxxxxxxxxxxx"
 
 class TwitterClient():
     def __init__(self, twitter_user=None):
